@@ -63,7 +63,7 @@ void loop() {
 
 ## LAMP ON:
 
-<img width="1185" height="830" alt="Screenshot 2025-09-11 133842" src="https://github.com/user-attachments/assets/1baa63de-fb60-4217-b89d-8972664bed0f" />
+<img width="1192" height="844" alt="Screenshot 2025-09-12 112752" src="https://github.com/user-attachments/assets/e80743ba-8df2-4272-8cc0-1765b4af1fe1" />
 
 
 ## RESULT:
